@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863051890084",
+    "project_id": "shramik-ncp",
+    "storage_bucket": "shramik-ncp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863051890084:android:b1b8b64dc74a193a1f5531",
+        "android_client_info": {
+          "package_name": "com.codex.shramik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDRcfIaJ5-XLU5rVbp94sBssufncgKB_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
